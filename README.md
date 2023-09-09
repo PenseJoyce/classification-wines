@@ -60,7 +60,7 @@ Esses dados são os resultados de uma análise química de vinhos cultivados na 
 ## Testes realizados 
 
 Foi realizado teste com 1 algoritmo de Machine Learning de Classificação:
-> wine.py
+> Script-vinho.py
 
 ## Tabelas de resultados
 
