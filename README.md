@@ -2,7 +2,8 @@
 
 Projeto de Machine Learning para identificação do tipo de vinho (Red or White) em python.
 
-![image](https://github.com/PenseJoyce/classification-wines/assets/77034969/2e568b75-3f52-4b26-a851-bd7904053941)
+![image](https://github.com/PenseJoyce/classification-wines/assets/77034969/b242afda-0f47-42ca-991d-120b79762b6f)
+
 
 ## Objetivos
 
